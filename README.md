@@ -54,6 +54,6 @@ public class Graduate implements Student, Teacher{
     }
 }
 六、实验截图
-![Image text]()
+![Image text](https://github.com/SYW-github/four/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201108192520.png)
 七、实验感想
 通过此次实验使我对interface定义接口，implement实现接口有的一定了解
